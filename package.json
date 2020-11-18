@@ -1,7 +1,7 @@
 {
   "name": "commajs-code",
-  "version": "1.0.1",
-  "description": "Commajs - The WYSIWYG framework",
+  "version": "1.0.2",
+  "description": "Commajs - The WYSIWYG framework - code plugin",
   "main": "dist/commajs-code.min.js",
   "repository": {
     "type": "git",
@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/plugghq/commajs-code/issues"
   },
-  "homepage": "https://www.commajs.com"
+  "homepage": "https://www.commajs.com",
+  "dependencies": {
+    "commajs-core": "^1.0.0"
+  }
 }
