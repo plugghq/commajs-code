@@ -1,6 +1,6 @@
 {
   "name": "commajs-code",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Commajs - The WYSIWYG framework - code plugin",
   "main": "dist/commajs-code.min.js",
   "repository": {
